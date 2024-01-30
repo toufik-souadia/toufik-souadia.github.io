@@ -1,0 +1,16 @@
+
+.fas {
+    color: lightgrey;
+    font-size: 20px;
+}
+
+.accordion-header {
+    border-bottom: 3px solid #674202;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.list-group-item {
+    color: grey;
+    border-bottom: 1px solid lightgrey;
+}
